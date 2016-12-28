@@ -5,7 +5,7 @@ Similar to IEx's `h` but instead of printing documentation it opens it in a brow
 ## Usage
 
 ```
-# install iex_help_opem
+# install iex_help_open
 $ mix archive.install https://github.com/wojtekmach/iex_help_open/releases/download/v0.1.0/iex_help_open-0.1.0.ez
 
 # use it in a mix project
