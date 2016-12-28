@@ -1,15 +1,14 @@
 # IExHelpOpen
 
+Similar to IEx's `h` but instead of printing documentation it opens it in a browser window.
+
 ## Usage
 
 ```
-$ git clone https://github.com/wojtekmach/iex_help_open
-$ cd iex_help_open
-$ mix archive.build
-$ mix archive.install
-```
+# install iex_help_opem
+$ mix archive.install https://github.com/wojtekmach/iex_help_open/releases/download/v0.1.0/iex_help_open-0.1.0.ez
 
-```
+# use it in a mix project
 $ iex -S mix
 
 iex> ho inspect
