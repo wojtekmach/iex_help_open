@@ -10,6 +10,7 @@ $ mix archive.install https://github.com/wojtekmach/iex_help_open/releases/downl
 
 # use it in a mix project
 $ iex -S mix
+iex> import_if_available IExHelpOpen # or add this line to .iex.exs
 
 iex> ho inspect
 # opens https://hexdocs.pm/elixir/Kernel.html#inspect/2
