@@ -19,6 +19,10 @@ iex> ho Ecto.Changeset.cast/3
 # opens https://hexdocs.pm/ecto/Ecto.Changeset.html#cast/3
 ```
 
+## Demo
+
+![demo](https://elixirforum.com/uploads/default/original/2X/8/85c915950bb25b2d47ee94137acc973523e9fa65.gif)
+
 ## Known limitations
 
 - works only with Mix
